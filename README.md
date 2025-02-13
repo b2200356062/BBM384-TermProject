@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/8l0a6UeB)
+# Review and Recommendation System for an E-Commerce Website
+## Made for BBM384 - Software Engineering Lab.
+### Used Java Spring as backend, Angular Typescript for frontend and PostgreSql for database operations.
