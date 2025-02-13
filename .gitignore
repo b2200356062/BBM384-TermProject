@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.idea
+angular/.angular
+angular/node_modules/__ngcc_entry_points__.json
+spring/src/main/resources/application.properties
+spring/target/classes/application.properties
+angular/node_modules/.cli-ngcc/d5565fad4ee13a91a7837b77b3fd24234d8f29ca490c4c1847bb03aa9c984030.lock
+spring/src/main/resources/application.properties
+spring/target/classes/application.properties
+spring/src/main/resources/application.properties

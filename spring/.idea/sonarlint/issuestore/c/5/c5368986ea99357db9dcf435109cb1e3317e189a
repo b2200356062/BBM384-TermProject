@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ÿÎ±ıÿÿÿÿ
+d
+java:S3973;"GUse indentation to denote the code conditionally executed by this "if".(ÀüÁĞ8ûÉÍßø1
+m
+java:S36555"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(µ‹Á©8îÍßø1

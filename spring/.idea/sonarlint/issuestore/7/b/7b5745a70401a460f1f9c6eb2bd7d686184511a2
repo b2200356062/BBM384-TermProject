@@ -1,0 +1,8 @@
+
+
+java:S1488$"]Immediately return this expression instead of assigning it to the temporary variable "posts".(Äó¼ıÿÿÿÿ8×îÌßø1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ÿÎ±ıÿÿÿÿ8ØîÌßø1
+i
+java:S3973."GUse indentation to denote the code conditionally executed by this "if".(ìÍùƒıÿÿÿÿ8ÙîÌßø1
+r
+java:S3655("PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÈÈãşÿÿÿÿ8óîÌßø1
